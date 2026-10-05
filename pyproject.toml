@@ -1,0 +1,11 @@
+[project]
+name = "big-data-solana"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "duckdb>=1.5.6",
+    "marimo>=0.25.1",
+    "polars>=1.44.2",
+]
