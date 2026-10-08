@@ -27,6 +27,10 @@ output/
 
 # Marimo
 .marimo/
+__marimo__/
+
+# Jupyter
+.ipynb_checkpoints
 
 # OS / editor
 .DS_Store
